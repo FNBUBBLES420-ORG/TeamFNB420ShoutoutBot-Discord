@@ -40,18 +40,6 @@ We currently support the following versions of the Streamer Notification Discord
 </table>
 </div>
 
-### 📞 **Emergency Contacts**
-
-**For Critical Security Issues:**
-- Create GitHub Security Advisory
-- Email maintainers with [SECURITY] tag
-- Include full vulnerability details
-
-**For General Security Questions:**
-- GitHub Discussions for non-sensitive topics
-- Documentation issues via GitHub Issues
-- Community Discord for best practices
-
 ---
 
 ### 📄 **Security Policy Version**

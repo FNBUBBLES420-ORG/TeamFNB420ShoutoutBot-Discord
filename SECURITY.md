@@ -6,8 +6,7 @@ We currently support the following versions of the Streamer Notification Discord
 
 | Version | Supported          | Node.js | Discord.js | Platforms | Status |
 | ------- | ------------------ | ------- | ---------- | --------- | ------ |
-| 8.0.0   | ✔️ | 16.x+   | 14.21.0+   | 13 Platforms | Current - Active |
-| 8.0.1   | ✔️ | 16.x+   | 14.21.0+   | 14 Platforms | Coming Soon!! |
+| 8.0.1   | ✔️ | 16.x+   | 14.21.0+   | 14 Platforms | Current - Active |
 
 
 ### Platform Support Matrix
@@ -34,7 +33,7 @@ We currently support the following versions of the Streamer Notification Discord
   </tr>
   <tr>
     <td align="center"><img src="icons/beamgg-seeklogo.png" alt="Beam.gg" width="60" height="60"/><br/>Beam.gg</td>
-    <td align="center"><img src="icons/trovo-seeklogo.png" alt="Trovo" width="60" height="60"/><br/>Trovo <span style="color: orange;">(coming soon)</span></td>
+    <td align="center"><img src="icons/trovo-seeklogo.png" alt="Trovo" width="60" height="60"/><br/>Trovo</td>
     <td></td>
     <td></td>
   </tr>

@@ -44,13 +44,15 @@ The **fully integrated version** of the TEAMFNB420 Shoutout Bot is exclusively a
 </table>
 </div>
 
+---
+
 ### Coming Soon
 
-* Bigo Live
-* Instagram Live
-* Caffeine
-* YouNow
-* Twitter/X Live
+- Bigo Live
+- Instagram Live
+- Caffeine
+- YouNow
+- Twitter/X Live
 
 
 Availability for other Discord servers is coming soon via a **guild subscription**. Subscriptions will be considered donations (monthly or annual) and will directly support our mission. FNBUBBLES420 Organization is a registered 501(c)(3) nonprofit. Verify us [IRS.GOV](https://apps.irs.gov/app/eos/)

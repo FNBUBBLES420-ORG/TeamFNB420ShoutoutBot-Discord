@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-Private-yellow.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen.svg)
 
-# TEAMFNB420 Shoutout Bot
+# FNBubbles420 Org 501c3 Presents => TEAMFNB420ShoutoutBot
 
 ## Notice
 

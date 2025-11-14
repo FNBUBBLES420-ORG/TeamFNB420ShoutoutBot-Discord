@@ -56,10 +56,10 @@ We currently support the following versions of the Streamer Notification Discord
 
 ### 📄 **Security Policy Version**
 
-- **Version**: 8.0.0
+- **Version**: 8.0.1
 - **Last Updated**: November 2025
 - **Next Review**: January 2026
-- **Covers Bot Versions**: 8.0.0 (13-platform support)
+- **Covers Bot Versions**: 8.0.1 (14-platform support)
 
 ---
 

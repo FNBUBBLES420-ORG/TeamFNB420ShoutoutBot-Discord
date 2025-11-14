@@ -10,7 +10,7 @@
 
 ## Notice
 
-The **fully integrated version** of the TEAMFNB420 Shoutout Bot is exclusively available in the official FNBUBBLES420 Organization Discord server, a registered 501(c)(3) nonprofit. This bot supports **13 major streaming platforms** and is provided **free of charge** to TEAMFNB420 members—no server subscription required. To access the full feature set, please [join our Discord community](https://fnbubbles420.org/discordinvite).
+The **fully integrated version** of the TEAMFNB420 Shoutout Bot is exclusively available in the official FNBUBBLES420 Organization Discord server, a registered 501(c)(3) nonprofit. This bot supports **14 major streaming platforms** and is provided **free of charge** to TEAMFNB420 members—no server subscription required. To access the full feature set, please [join our Discord community](https://fnbubbles420.org/discordinvite).
 > [![](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
 
 ### Supported Streaming Platforms

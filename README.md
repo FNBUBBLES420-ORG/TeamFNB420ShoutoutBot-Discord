@@ -64,9 +64,9 @@ The **fully integrated version** of the TEAMFNB420 Shoutout Bot is exclusively a
 ### Commands
 - `/addstreamer`
 - `/removestreamer`
-- `help`
-- `ping`
-- `liststreamers`
+- `/help`
+- `/ping`
+- `/liststreamers`
 
 ### Our Mission
 

@@ -8,7 +8,17 @@
 
 ## Notice
 
-The **fully integrated version** of the TEAMFNB420 Shoutout Bot is exclusively available in the official FNBUBBLES420 Organization Discord server, a registered 501(c)(3) nonprofit. This bot supports **14 major streaming platforms** and is provided **free of charge** to TEAMFNB420 members—no server subscription required. To access the full feature set, please [join our Discord community](https://fnbubbles420.org/discordinvite).
+The **fully integrated version** of the TEAMFNB420 Shoutout Bot is exclusively available in the official FNBUBBLES420 Organization Discord server, a registered 501(c)(3) nonprofit. This bot supports **14 major streaming platforms** and is provided **free of charge** to TEAMFNB420 members—no server subscription required.
+
+### ➕ Add the Bot to Your Server
+
+You can add the `TEAMFNB420ShoutoutBot` directly to your Discord server using our official invite page:
+
+👉 **[https://fnbubbles420.org/add-bot](https://fnbubbles420.org/add-bot)**
+
+Once added, a **48-hour free trial** will begin automatically.
+
+To access the full feature set and community resources, you may also [join our Discord community](https://fnbubbles420.org/discordinvite).
 
 > [![](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
 
@@ -113,4 +123,3 @@ We are dedicated to empowering disabled individuals, including those with autism
 **⭐ If you find this project helpful, please star the repository!**
 
 **Made with ❤️ for the Discord community.**
-

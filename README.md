@@ -49,9 +49,8 @@ Here’s how the trial works:
 * `/removestreamer` – Remove a streamer
 * `/help` – Get more information
 
-❓ **Questions?** Contact us at **[fnbubbles420org@gmail.com](mailto:fnbubbles420org@gmail.com)**
 
-All subscriptions directly support **FNBubbles420 Org**, a registered **501(c)(3) nonprofit**.
+> - All subscriptions directly support **FNBubbles420 Org**, a registered **501(c)(3) nonprofit**.
 
 ---
 

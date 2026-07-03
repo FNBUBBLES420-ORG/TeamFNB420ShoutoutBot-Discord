@@ -1,12 +1,12 @@
 <p align="center">
-<img src="assets/banner.png" width="100%" alt="TEAMFNB420 Banner">
+  <img src="assets/banner.png" alt="TEAMFNB420 Banner" width="100%" />
 </p>
 
 <h1 align="center">TEAMFNB420 Shoutout Bot</h1>
 
 <p align="center">
-Official Multi-Platform Discord Shoutout Bot by <b>FNBubbles420 Org</b><br>
-Registered IRS 501(c)(3) Nonprofit Organization
+  <b>Enterprise-Grade Multi-Platform Discord Shoutout System</b><br>
+  Built and maintained by <b>FNBubbles420 Org</b> — Registered IRS 501(c)(3)
 </p>
 
 <p align="center">
@@ -16,33 +16,34 @@ Registered IRS 501(c)(3) Nonprofit Organization
 ![Node.js](https://img.shields.io/badge/Node.js-16+-339933?style=for-the-badge\&logo=node.js)
 ![Platforms](https://img.shields.io/badge/Platforms-14-ff6b00?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Private-yellow?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained-Active-success?style=for-the-badge)
 
 </p>
 
 ---
 
-# 🚀 Overview
+## 🚀 Overview
 
-TEAMFNB420 Shoutout Bot automatically detects when streamers go live and sends rich, real-time notifications directly into your Discord server.
+TEAMFNB420 Shoutout Bot is a high-performance, scalable Discord automation system designed to detect live streams and instantly deliver rich, professional notifications across your community.
 
-Built for communities, streamers, esports teams, developers, and organizations who want reliable, fast, and scalable shoutout automation.
-
----
-
-# ✨ Features
-
-* Supports **14 major streaming platforms**
-* Real-time **live stream detection**
-* Clean and professional **Discord embeds**
-* Supports up to **5,000 streamers per server**
-* Simple and powerful **slash command system**
-* Built and maintained by a **registered nonprofit**
-* Secure and optimized infrastructure
+Built with reliability and accessibility in mind, this system supports **14 global streaming platforms** and is trusted by creators, communities, and organizations.
 
 ---
 
-# ➕ Add the Bot
+## ✨ Core Features
+
+* 🌐 Multi-platform support (14 streaming services)
+* ⚡ Real-time live detection engine
+* 🧠 Intelligent notification system
+* 🎨 Rich Discord embed formatting
+* 📊 Scales up to **5,000 streamers per server**
+* 🔒 Secure and optimized backend infrastructure
+* 🧩 Modern slash command interface
+* 🏢 Maintained by a registered nonprofit organization
+
+---
+
+## 📥 Quick Start
 
 <p align="center">
 
@@ -50,51 +51,49 @@ Built for communities, streamers, esports teams, developers, and organizations w
 
 </p>
 
-* 7 Day Free Trial starts automatically
-* No credit card required
-* Quick setup in seconds
+**Getting started takes less than 60 seconds:**
+
+1. Click the link above
+2. Invite the bot to your server
+3. Run `/addstreamer`
+4. Start receiving live alerts instantly
 
 ---
 
-# 💬 Join the Community
+## 🎁 Free Trial
 
-[https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
+Every server automatically receives a **7 Day Free Trial**:
 
-> [![](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
+| Feature       | Included    |
+| ------------- | ----------- |
+| Trial Length  | 7 Days      |
+| Streamers     | Up to 2     |
+| Notifications | Full Access |
+| Commands      | All Enabled |
+| Cost          | Free        |
 
----
+### After Trial
 
-# ⏱️ Free Trial
-
-| Feature           | Details     |
-| ----------------- | ----------- |
-| Trial Length      | 7 Days      |
-| Streamers Allowed | 2           |
-| Live Alerts       | Enabled     |
-| Commands          | Full Access |
-
-After the trial ends:
-
-* Alerts will stop if not activated
-* Activate via donation-based subscription:
+* Notifications pause if not activated
+* Activate via donation-based guild subscription:
   [https://www.fnbubbles420.org/guild-subscription](https://www.fnbubbles420.org/guild-subscription)
-* Servers are approved within ~30 minutes
+* Activation time: **~30 minutes**
 
 ---
 
-# 💻 Commands
+## 💻 Commands
 
 | Command           | Description            |
 | ----------------- | ---------------------- |
-| `/addstreamer`    | Add a streamer         |
+| `/addstreamer`    | Track a streamer       |
 | `/removestreamer` | Remove a streamer      |
 | `/liststreamers`  | View tracked streamers |
-| `/help`           | Show help menu         |
-| `/ping`           | Check bot status       |
+| `/help`           | View help menu         |
+| `/ping`           | Check system status    |
 
 ---
 
-# 🌍 Supported Platforms
+## 🌍 Supported Platforms
 
 <div align="center">
 <table>
@@ -127,47 +126,56 @@ After the trial ends:
 
 ---
 
-# 📡 Availability
+## 📡 Deployment & Availability
 
-* External Discord servers supported via subscription
-* Up to **5,000 streamers per server**
-* Unlimited access available in official org server
-* Subscriptions are treated as **donations**
+* External servers supported via guild subscription
+* Supports up to **5,000 tracked streamers per server**
+* Unlimited access available within official organization server
+* Subscription model operates as **nonprofit donations**
 
 Verify nonprofit status:
 [https://apps.irs.gov/app/eos/](https://apps.irs.gov/app/eos/)
 
 ---
 
-# ❤️ Our Mission
+## 💬 Community
 
-FNBubbles420 Org is dedicated to empowering individuals through technology, accessibility, and community.
+Join our official Discord:
 
-We support:
+[https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
 
-* Autism
-* PTSD
-* Mental Health
-* Physical Disabilities
-* Veterans
-* Developers & Students
-* Streamers & Gamers
-
-All support helps fund accessibility tools, education, and community programs.
+> [![](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
 
 ---
 
-# ⭐ Support the Project
+## ❤️ Mission
 
-If you find this project helpful:
+FNBubbles420 Org is committed to advancing accessibility, technology, and community support.
 
-* Star the repository
-* Share with others
-* Join the community
-* Support the nonprofit mission
+We actively support:
+
+* Autism & Neurodiversity
+* PTSD & Mental Health
+* Physical Disabilities
+* Veterans
+* Developers & Students
+* Streamers & Gaming Communities
+
+All contributions directly support accessibility tools, education programs, and community outreach initiatives.
+
+---
+
+## ⭐ Support
+
+If this project provides value:
+
+* ⭐ Star the repository
+* 🔗 Share with your community
+* 💬 Join our Discord
+* ❤️ Support the nonprofit mission
 
 ---
 
 <p align="center">
-Made with ❤️ by FNBubbles420 Org
+  Built with ❤️ by FNBubbles420 Org
 </p>

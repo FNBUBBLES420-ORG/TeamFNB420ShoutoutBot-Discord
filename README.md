@@ -16,7 +16,7 @@ You can add the `TEAMFNB420ShoutoutBot` directly to your Discord server using ou
 
 👉 **[https://fnbubbles420.org/add-bot](https://fnbubbles420.org/add-bot)**
 
-Once added, a **48-hour free trial** will begin automatically.
+Once added, a **7 Day Free trial** will begin automatically.
 
 To access the full feature set and community resources, you may also [join our Discord community](https://fnbubbles420.org/discordinvite).
 

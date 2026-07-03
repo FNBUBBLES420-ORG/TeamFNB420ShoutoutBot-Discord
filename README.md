@@ -24,14 +24,14 @@ To access the full feature set and community resources, you may also [join our D
 
 ---
 
-## ⏱️ 48-Hour Trial Period
+## ⏱️ 7 Day Free Trial Period
 
 Hey! Thanks for adding our bot to your server 👋
 Here’s how the trial works:
 
-### ✅ 48-Hour Free Trial
+### ✅ 7 Day Free Trial
 
-* A **complimentary 48-hour free trial** begins automatically when the bot is added
+* A **complimentary 7 Day Free trial** begins automatically when the bot is added
 * During the trial, you can add **up to 2 streamers** to track
 * The bot will send **live alerts** to your selected channels so you can fully evaluate the service
 

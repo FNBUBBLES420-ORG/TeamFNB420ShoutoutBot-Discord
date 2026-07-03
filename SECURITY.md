@@ -6,7 +6,7 @@ We currently support the following versions of the Streamer Notification Discord
 
 | Version | Supported          | Node.js | Discord.js | Platforms | Status |
 | ------- | ------------------ | ------- | ---------- | --------- | ------ |
-| 8.0.1   | ✔️ | 16.x+   | 14.21.0+   | 14 Platforms | Current - Active |
+| 10.0   | ✔️ | 16.x+   | 14.21.0+   | 14 Platforms | Current - Active |
 
 
 ### Platform Support Matrix
